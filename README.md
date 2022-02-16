@@ -1,3 +1,5 @@
+# OG Detection of Supernova using Convolutional Neural Network
+
 This project was worked with Dr. Javier Antelis, ITESM's proffesor, for the DELFIN program.
 
 The project consist in a biclass classificator of OG+noise or noise using a Convolutional Neural Network (Tensorflow). The input is an image of one color and the output would be mentioned above. 
